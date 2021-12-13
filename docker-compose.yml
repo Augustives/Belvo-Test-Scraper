@@ -1,0 +1,5 @@
+version: '3'
+services:
+  belvo-scraper:
+    container_name: belvo-scraper
+    image: belvo-scraper
